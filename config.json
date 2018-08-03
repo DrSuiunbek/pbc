@@ -1,0 +1,20 @@
+{
+    "Producers": [
+        "P1",
+        "P2",
+        "P3"
+    ],
+    "Freighters": [
+        "F1",
+        "F2"
+    ],
+    "Shops": [
+        "S1",
+        "S2"
+    ],
+    "Miners": [
+        "M1"
+    ],
+    "NetworkID": "2003",
+    "Password": "12345"
+}

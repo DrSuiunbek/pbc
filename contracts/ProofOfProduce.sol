@@ -1,5 +1,8 @@
 pragma solidity ^0.4.24;
 
+// this smart contract is based on the original work of:
+// https://www.microsoft.com/developerblog/2018/02/26/using-private-ethereum-consortium-network-store-validate-documents/
+//
 contract ProofOfProduce {
     struct Proof {
         address owner;
